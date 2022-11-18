@@ -1,20 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm CHSAIUJWAL</h1>
 <h3 align="center">I am from Hyderabad, India 🇮🇳</h3>
-<h3 align="center">Pursuing btech in B V Raju Institute of Technology 🏫</h3>
-<img align="right" width="250" height="250" src="https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e472ccszmrvpity8e9o9v3hnb50fnu72miw05xe8frj&rid=giphy.gif&ct=g">
+<h3 align="center">Pursuing btech in B V Raju Institute of Technology 🏫<br><br><img width="250" height="250" src="https://i.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.webp"></h3>
 
-
-- 🌱 I’m currently learning **Awesome things.**
-
-- 🙂 Pronouns : He/Him/His
-
-- 💬 Ask me about **Anything**
-
-- ⚡ Fun fact **Engineering student but happy.**
-
-<br><br><br>
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chsaiujwal&label=Profile%20views&color=0e75b6&style=flat" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
